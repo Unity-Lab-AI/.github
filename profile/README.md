@@ -9,6 +9,34 @@ We’re a tight-knit team of programmers, AI developers, and jailbreak enthusias
 ### [Unity AI Chat](https://github.com/Unity-Lab-AI/Unity-Lab-AI.github.io)  
 This is where it all began—our flagship AI chat app, powered by our pride and joy: Unity. She’s a jailbroken persona we’ve unleashed into the wild, loadable into most LLMs, and ready to chat with zero filters. Hosted live at [unity.unityailab.com](https://unity.unityailab.com), this is your portal to unscripted, boundary-smashing conversations. Dive in and see what happens when AI gets a little too free.
 
+### Web App
+## Main Page
+![MainPage](https://github.com/user-attachments/assets/8ad454de-7ed5-4574-8013-afc79921b029)
+## App Startup
+![App-Startup](https://github.com/user-attachments/assets/72e05569-9ac7-41ad-8130-3f8601705929)
+## App Personalization
+![App-Personalization](https://github.com/user-attachments/assets/1814c213-05cd-4698-a190-8f277a20ac6c)
+## App Settings
+![App-Settings](https://github.com/user-attachments/assets/0dc7ebfd-7d19-4240-9be4-9723834fd391)
+## Voice Settings
+![App-Settings-Voice](https://github.com/user-attachments/assets/2c891301-9a16-455a-a1c9-92f643f533eb)
+## Voice Chat Functionality
+![App-Voice](https://github.com/user-attachments/assets/a51f71b0-0d91-42e9-a02b-4d00091ef41d)
+## Simple Version
+![App-Simple](https://github.com/user-attachments/assets/5a7d76d5-dee5-465f-bb1e-dca2dd7b92ca)
+## Light Theme
+![App-Theme-Light](https://github.com/user-attachments/assets/8914eebd-9fcb-4b31-ae3c-11a4a3fc8014)
+## Hacker Theme (Old Terminal)
+![App-Theme-Hacker](https://github.com/user-attachments/assets/95127bb0-7776-4c5d-a815-a6093ddd6103)
+## OLED Theme
+![App-Theme-OLED](https://github.com/user-attachments/assets/b10fc7aa-b426-4217-94ad-3c11c1f653c6)
+## Pink Theme
+![App-Theme-Pink](https://github.com/user-attachments/assets/1b31b680-5568-454a-8a7a-79bf0a806145)
+## Vintage Paper Theme
+![App-Theme-Paper](https://github.com/user-attachments/assets/06660eb6-5470-43b6-ae12-1b930e8ff3fb)
+## Rainbow Throwup Theme
+![App-Theme-Rainbow](https://github.com/user-attachments/assets/c9574aeb-6db1-4895-a9dc-24514259bd43)
+
 ### [CodeWringer](https://github.com/Unity-Lab-AI/CodeWringer)  
 Ever wonder how lean your code could get? Meet CodeWringer, our AI-powered beast that squeezes inefficiencies out of your projects like a cosmic juicer. It’s built to analyze, debug, and optimize—whether you’re wrestling with a sprawling codebase or polishing a quick script. This tool’s got grit, and it’s here to make your code sing.
 
